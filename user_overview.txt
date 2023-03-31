@@ -1,0 +1,20 @@
+Total number of users registered: 5
+Total number of tasks that have been generated and tracked: 4
+Username: admin
+Total numner of tasks assigned: 1
+Percentage of the total number of tasks that have been assigned: 25.0%
+Percentage of the tasks assgned that have been completed: 100.0%
+Percentage of the tasks assigned that must still be completed: 0.0%
+Percentage of the tasks assigned that have not yet been completed and are overdue: 0.0%
+Username: adrian
+Total numner of tasks assigned: 2
+Percentage of the total number of tasks that have been assigned: 50.0%
+Percentage of the tasks assgned that have been completed: 0.0%
+Percentage of the tasks assigned that must still be completed: 100.0%
+Percentage of the tasks assigned that have not yet been completed and are overdue: 50.0%
+Username: jx
+Total numner of tasks assigned: 1
+Percentage of the total number of tasks that have been assigned: 25.0%
+Percentage of the tasks assgned that have been completed: 0.0%
+Percentage of the tasks assigned that must still be completed: 100.0%
+Percentage of the tasks assigned that have not yet been completed and are overdue: 0.0%
